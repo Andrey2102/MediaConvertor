@@ -1,0 +1,13 @@
+[
+{
+  "directory": "C:/Users/adm/univer/cg/MediaConvertor/build",
+  "command": "C:\\MinGW\\bin\\c++.exe    -g   -o CMakeFiles\\MediaConvertor.dir\\s\\convertor.cpp.obj -c C:\\Users\\adm\\univer\\cg\\MediaConvertor\\s\\convertor.cpp",
+  "file": "C:/Users/adm/univer/cg/MediaConvertor/s/convertor.cpp"
+},
+
+{
+  "directory": "C:/Users/adm/univer/cg/MediaConvertor/build",
+  "command": "C:\\MinGW\\bin\\c++.exe    -g   -o CMakeFiles\\MediaConvertor.dir\\s\\main.cpp.obj -c C:\\Users\\adm\\univer\\cg\\MediaConvertor\\s\\main.cpp",
+  "file": "C:/Users/adm/univer/cg/MediaConvertor/s/main.cpp"
+}
+]
