@@ -1,13 +1,17 @@
 [
 {
   "directory": "C:/Users/adm/univer/cg/MediaConvertor/build",
-  "command": "C:\\MinGW\\bin\\c++.exe    -g   -o CMakeFiles\\MediaConvertor.dir\\s\\convertor.cpp.obj -c C:\\Users\\adm\\univer\\cg\\MediaConvertor\\s\\convertor.cpp",
-  "file": "C:/Users/adm/univer/cg/MediaConvertor/s/convertor.cpp"
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.300\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd /FoCMakeFiles\\MediaConvertor.dir\\s\\bmp_reader.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\adm\\univer\\cg\\MediaConvertor\\s\\bmp_reader.cpp",
+  "file": "C:/Users/adm/univer/cg/MediaConvertor/s/bmp_reader.cpp"
 },
-
 {
   "directory": "C:/Users/adm/univer/cg/MediaConvertor/build",
-  "command": "C:\\MinGW\\bin\\c++.exe    -g   -o CMakeFiles\\MediaConvertor.dir\\s\\main.cpp.obj -c C:\\Users\\adm\\univer\\cg\\MediaConvertor\\s\\main.cpp",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.300\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd /FoCMakeFiles\\MediaConvertor.dir\\s\\convertor.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\adm\\univer\\cg\\MediaConvertor\\s\\convertor.cpp",
+  "file": "C:/Users/adm/univer/cg/MediaConvertor/s/convertor.cpp"
+},
+{
+  "directory": "C:/Users/adm/univer/cg/MediaConvertor/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.300\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd /FoCMakeFiles\\MediaConvertor.dir\\s\\main.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\adm\\univer\\cg\\MediaConvertor\\s\\main.cpp",
   "file": "C:/Users/adm/univer/cg/MediaConvertor/s/main.cpp"
 }
 ]

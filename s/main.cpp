@@ -1,8 +1,8 @@
 #include <iostream>
 #include "convertor.h"
+#include "bmp_reader.h"
 
 int main(){
-    std::cout << "Test" << std::endl;
-    pr();
+    BMP image("C:\\Users\\adm\\univer\\cg\\MediaConvertor\\bmp\\b1.bmp");
     return 0;
 }

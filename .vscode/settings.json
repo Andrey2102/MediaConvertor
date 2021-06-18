@@ -1,3 +1,8 @@
 {
-    "C_Cpp.dimInactiveRegions": false
+    "C_Cpp.dimInactiveRegions": false,
+    "files.associations": {
+        "xiosbase": "cpp"
+    },
+    "clang-format.executable": "C:\\Users\\adm\\univer\\cg\\MediaConvertor\\.vscode\\.clang-format",
+    "editor.formatOnSave": true
 }

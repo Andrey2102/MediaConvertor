@@ -1,4 +1,5 @@
 # ninja log v5
-7	8707	637915267	CMakeFiles/MediaConvertor.dir/s/convertor.cpp.obj	f9b575e47af83383
-0	8760	637915267	CMakeFiles/MediaConvertor.dir/s/main.cpp.obj	565c79b50b8460e6
-8760	9334	637915268	MediaConvertor.exe	83e384158f4b4a87
+7	1272	6447696267848160	CMakeFiles/MediaConvertor.dir/s/convertor.cpp.obj	35aae0e52759131c
+1	1042	6447880941845057	CMakeFiles/MediaConvertor.dir/s/main.cpp.obj	8b5021b2383dee06
+1043	1641	6447880945123195	MediaConvertor.exe	fd6be10f53cf2fb
+0	1060	6447879248502668	CMakeFiles/MediaConvertor.dir/s/bmp_reader.cpp.obj	aa4930647482e27f

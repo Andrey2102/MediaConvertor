@@ -38,7 +38,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "MediaConvertor::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-MediaConvertor-Debug-5134c4b34fa2100ed1b7.json",
+					"jsonFile" : "target-MediaConvertor-Debug-39271059996a180fde9a.json",
 					"name" : "MediaConvertor",
 					"projectIndex" : 0
 				}
@@ -54,6 +54,6 @@
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 0
+		"minor" : 2
 	}
 }
